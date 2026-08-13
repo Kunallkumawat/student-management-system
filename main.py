@@ -1,6 +1,6 @@
 def calculate_grade(marks):
     if marks >= 90:
-        return "A"
+        return "A - MAIN"
     elif marks >= 80:
         return "B"
     elif marks >= 70:
