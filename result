@@ -1,0 +1,12 @@
+| Student Name | Enrollment No. | Subject                 | Marks | Grade | Result |
+| ------------ | -------------- | ----------------------- | ----: | ----- | ------ |
+| Aarav Sharma | KU2407001      | Java                    |    85 | B     | Pass   |
+| Rohan Patel  | KU2407002      | Python                  |    78 | C     | Pass   |
+| Kunal Mehta  | KU2407003      | Database                |    92 | A     | Pass   |
+| Yash Shah    | KU2407004      | Web Technology          |    74 | C     | Pass   |
+| Arjun Verma  | KU2407005      | Computer Networks       |    88 | B     | Pass   |
+| Harsh Patel  | KU2407006      | Operating System        |    61 | D     | Pass   |
+| Dhruv Joshi  | KU2407007      | Software Engineering    |    55 | F     | Fail   |
+| Raj Malhotra | KU2407008      | Artificial Intelligence |    95 | A     | Pass   |
+| Aditya Singh | KU2407009      | C++                     |    76 | C     | Pass   |
+| Dev Kumar    | KU2407010      | Data Structures         |    89 | B     | Pass   |
